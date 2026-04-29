@@ -127,6 +127,7 @@ A loss curve is generated to visualize convergence.
 ## Author
 
 Venish Korat
+
 Dhruvit Sangani
 
 ---
