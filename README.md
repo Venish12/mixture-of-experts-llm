@@ -131,15 +131,6 @@ Venish Korat
 Dhruvit Sangani
 
 ---
-
-## References
-
-* Fedus, Zoph, Shazeer. *Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity*, 2022
-* Du et al. *GLaM: Efficient Scaling of Language Models with Mixture-of-Experts*, 2022
-* Rajbhandari et al. *DeepSpeed-MoE*, 2022
-
----
-
 ## Conclusion
 
 This project provides a practical demonstration of the Mixture-of-Experts paradigm, highlighting its role in improving scalability and efficiency in modern large language models through sparse computation.
